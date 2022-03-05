@@ -9,3 +9,5 @@ comparision - n
 It takes time complexity of O(n)
 
 Space complexity of n
+
+you can run the following code by running: python3 linear.py
