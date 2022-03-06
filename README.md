@@ -64,3 +64,20 @@ the time complexity is O(nlogn)
 ## Cons of Merge Sort:
     - Extra space (not inplace sort)
     - No SMall Problem (Slower for small data)
+    - Extra stack space for recursive operation
+
+# Algorithms we can write under divide and conquer
+     - Merge Sort
+     - binary sort
+     - Quick Sort
+
+
+# Types of algorithms
+    - Back tracking - Nqueen
+    - Divide and Conquer - Merge,QUick Sort
+    - Dynamic Programming - Fibonacci
+    - Greedy Algorithm
+    - Simple Recursive Algorithm - Tower of Hanoi or DFS
+    - Branch and bound alogrithms
+    - Brute force algorithnms
+    - Randomized algorithms
