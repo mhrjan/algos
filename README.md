@@ -55,3 +55,12 @@ the time complexity is O(logn)
 
 Merge sort is sorting technique using recursive algo
 the time complexity is O(nlogn)
+## Pros of MergerSort::
+
+    - MErge sort is suitable for large size of list
+    - Merge Sort is suitable for linked list
+    - Merge Sort Supports External Sorting ( We can merge external lists in chunks)
+    - Merge sort is stable algorithm
+## Cons of Merge Sort:
+    - Extra space (not inplace sort)
+    - No SMall Problem (Slower for small data)
