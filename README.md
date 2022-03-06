@@ -65,6 +65,21 @@ the time complexity is O(nlogn)
     - Extra space (not inplace sort)
     - No SMall Problem (Slower for small data)
     - Extra stack space for recursive operation
+# QUick Sort
+
+It is divide conquer algorithm
+THe worst case is if list is already sorted O(n^2) if pivot is first element
+Average complexity is O(nlogn)
+
+Removing worst case of quick sort:
+1. Always select middle element as pivot O(nlogn)
+2. Select Random element as pivot O(n^2)
+
+Space complexity::
+It uses stack for recusrsive
+Worst Case is O(n^2)
+Best case O(logn) to O(n)
+
 
 # Algorithms we can write under divide and conquer
      - Merge Sort
