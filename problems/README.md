@@ -10,3 +10,5 @@ The subsequence can be continous or non continous. So we will take the common el
 we can frame sub sequence such as
 AC,ACD
 So the longest is ACD and the length is 3
+
+To solve this problem we use dynamic programming
