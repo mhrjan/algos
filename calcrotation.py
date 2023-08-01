@@ -8,6 +8,6 @@ def calcrotation(arr,n):
     return min_index
 
 
-arr = [15,18,2,3,6,12]
+arr = [15,18,2,3,6,42]
 n=len(arr)
 print(calcrotation(arr,n))
